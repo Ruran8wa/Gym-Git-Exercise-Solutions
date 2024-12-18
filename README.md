@@ -1,1 +1,1 @@
-# Gym-Git-Exercise-Solutions by Rurangwa
+# Gym-Git-Exercise-Solutions
