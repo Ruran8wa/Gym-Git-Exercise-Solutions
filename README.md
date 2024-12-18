@@ -91,7 +91,7 @@
    91  git switch main
    92  git merge ft/team-page
    93  git add .
-   94  git commit -resolving some issues'
+   94  git commit -m 'resolving some issues'
    95  git commit -m 'resolving some issues'
    96  git push
    97  git pull
