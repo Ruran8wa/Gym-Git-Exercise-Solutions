@@ -127,7 +127,7 @@
   128  git clear
   130  git rebase main
   131  git add .
-  132  git commit -m "rebase:
+  132  git commit -m "rebase"
   133  git commit -m "rebase"
   134  git push
   135  git push origin HEAD:ft/home-page-redesign
